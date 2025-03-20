@@ -1,6 +1,5 @@
 {
-  "visitors": 0,
-  "apiHits": 0,
-  "lastUsedApi": "",
-  "status": "online"
+  "visitorCount": 0,
+  "apiHitCount": 0,
+  "lastUsedApi": ""
 }
